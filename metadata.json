@@ -1,0 +1,8 @@
+{
+  "name": "AI-Based Corrosion Detection in Metals",
+  "description": "Professional metal surface inspection web app using Gemini AI vision to detect corrosion, evaluate severity, track inspection history, and export PDF/HTML reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
